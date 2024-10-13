@@ -176,7 +176,11 @@ This implementation combines several advanced algorithms to enhance AI navigatio
 - it's a search algorithm based on stochastic
   and population-based adaptive optimization
 
-More on path planning techniques:
+Interesting paper to work on (2001)
+"Do Irregular Grids make a Difference? Relaxing the Spatial Regularity Assumption in Cellular Models of Social Dynamics":
+https://www.jasss.org/4/4/6.html
+
+More on path planning techniques (2023):
 https://www.sciencedirect.com/science/article/pii/S095741742300756X
 
 This repository introduces a solid foundation for various autonomous
