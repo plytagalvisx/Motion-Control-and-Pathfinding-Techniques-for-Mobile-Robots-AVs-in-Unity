@@ -39,6 +39,11 @@ and Rapidly Exploring Random Trees (RRTs).
 - Efficiently explores the search space to find feasible paths in dynamic environments (refines paths to minimize cost, ensuring optimality in the resulting path through iterative improvement).
 - An enhanced version of the RRT algorithm, RRT\* optimizes the path by exploring potential routes more thoroughly and improving upon the initial path found.
 
+## RRT Connect Algorithm:
+
+- Bidirectional search to connect start and goal using RRT (Rapidly-exploring Random Tree) methodology.
+- This algorithm improves efficiency by connecting two trees simultaneously, facilitating faster pathfinding through the (continuous) environment.
+
 ## PRM (Probabilistic Roadmap) Algorithms:
 
 - A method for pathﬁnding that samples points in the environment to build
@@ -56,11 +61,6 @@ and Rapidly Exploring Random Trees (RRTs).
   - Reduces node numbers for improved search space efficiency.
 - ### Lazy Collision Checking:
   - Implements collision checking with visibility caching and optional heuristics.
-
-## RRT Connect Algorithm:
-
-- Bidirectional search to connect start and goal using RRT (Rapidly-exploring Random Tree) methodology.
-- This algorithm improves efficiency by connecting two trees simultaneously, facilitating faster pathfinding through the (continuous) environment.
 
 ## Visibility Graph:
 
