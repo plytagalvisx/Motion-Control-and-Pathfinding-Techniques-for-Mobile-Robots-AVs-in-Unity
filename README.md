@@ -11,7 +11,7 @@ and Rapidly Exploring Random Trees (RRTs).
 
 # Path Planning Algorithms:
 
-## A\* Algorithm Variants:
+## A-Star (A\*) Algorithm Variants:
 
 - A\* uses a list of waypoints (a path) to guide the autonomous vehicle (carAI).
 - A heuristic-based search algorithm that finds the shortest path from a start to a goal node by evaluating possible paths based on cost and estimated distance.
