@@ -51,8 +51,8 @@ and Rapidly Exploring Random Trees (RRTs).
 - The PRM method creates a roadmap of potential paths through the environment, represented as PRMGraph and managed by the PRMPathPlanner.
 - The algorithm leverages traversability array data to determine valid movement paths.
 - ### Basic PRM:
-      - Generates a roadmap and ﬁnds a path using A* on the PRM.
-  graph.
+  - Generates a roadmap and ﬁnds a path using A\* on the PRM.
+    graph.
 - ### Basic PRM with KD-tree:
   - Utilizes KD-tree nearest neighbor search for efficient pathfinding in high-dimensional spaces.
 - ### Lazy Incremental PRM (Improved PRM):
