@@ -186,3 +186,15 @@ https://www.sciencedirect.com/science/article/pii/S095741742300756X
 This repository introduces a solid foundation for various autonomous
 vehicle driving behaviors and pathﬁnding, as well as, motion control
 strategies.
+
+Spatial Algorithms:
+http://faculty.salisbury.edu/~ajlembo/419/lecture11.pdf
+
+Spatial Search Algorithms (R-tree, K-D tree, kNN queries and distance metrics, range and radius queries):
+https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
+
+Spatial AI:
+https://www.profbanafa.com/2024/05/spatial-ai-transforming-world-with.html
+
+Spatial Computing:
+https://medium.com/antaeus-ar/spatial-computing-101-a-comprehensive-introduction-2f1005f5a235
