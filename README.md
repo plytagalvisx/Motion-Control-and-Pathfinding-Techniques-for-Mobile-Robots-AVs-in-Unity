@@ -165,7 +165,16 @@ This implementation combines several advanced algorithms to enhance AI navigatio
 
 ## 13. Dynamic Window Method
 
-## 14. Optimization Algorithms/Techniques:
+## 14. Distance Transform
+
+Distance Transform can help in determining obstacle polygon centroids. ???
+
+### How it helps:
+- **Obstacle Representation**: Distance Transform can be used to convert a binary occupancy grid into a distance field/map, where each cell holds the shortest distance to the nearest obstacle.
+- **Centroid Identification**: The peaks (local maxima) in the Distance Transform field/map often correspond to the centroids of obstacles, making it useful for clustering and simplifying complex obstacle representations.
+- **Path Planning Enhancement**: Distance Transform can also be used in potential field methods to define cost maps, helping navigation algorithms avoid obstacles more naturally.
+
+## 15. Optimization Algorithms/Techniques:
 
 ### - Genetic Algorithm
 
